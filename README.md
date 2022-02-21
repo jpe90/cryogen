@@ -214,7 +214,9 @@ More information on deployment can be found [here](http://cryogenweb.org/docs/de
 
 A Clojure library to provide Markdown rendering to the cryogen-core compiler by using an external command/program, such as pandoc.
 
+## Emacs Integration
 
+An [emacs package](https://github.com/jpe90/emacs-clj-deps-new) is available which provides a Magit-style interface to `clj-new` and `deps-new` and provides a command to create sites with Cryogen.
 
 ## Some Sites Made With Cryogen
 
